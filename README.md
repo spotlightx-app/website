@@ -1,3 +1,3 @@
-# spotlightx.org
+# Spotlight X
 
-Application code for [spotlightx.org](https://spotlightx.org)
+Code repository for webapp [spotlightx.org](https://spotlightx.org)
